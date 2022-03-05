@@ -1,1 +1,1 @@
-(demo🚀)[https://shakhrizod0223.github.io/travel-project/]
+[demo🚀](https://shakhrizod0223.github.io/travel-project/)
